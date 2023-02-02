@@ -1,7 +1,8 @@
 package Last_Dance;
 
-public class Reverse_String {
+public class ReverseString {
+
     public static void main(String[] args) {
-        System.out.println("siuuu");
+        System.out.println("siu");
     }
 }
